@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תחנות ואוטובוסים</string>
+    <string name="from_label">מוצא:</string>
+    <string name="to_label">יעד:</string>
+    <string name="search_button">חפש קווים</string>
+    <string name="no_results">לא נמצא קו ישיר בין התחנות שנבחרו</string>
+</resources>
